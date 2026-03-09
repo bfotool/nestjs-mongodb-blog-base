@@ -2,13 +2,21 @@
 
 A production-grade RESTful Blog API built with **NestJS 11**, **MongoDB** (Mongoose), **JWT Authentication**, and **Swagger/OpenAPI** documentation. Includes full CRUD for posts, categories, tags, comments, users, role-based access control, and a database seeding system.
 
-![nestjs-mongo-base-api](nest-mongo-api.png)
+![nestjs-mongo-api](nest-mongo-api.png)
 
 ![NestJS](https://img.shields.io/badge/NestJS-11-ea2845?logo=nestjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?logo=mongodb)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?logo=typescript)
 ![Swagger](https://img.shields.io/badge/Swagger-OpenAPI_3-85EA2D?logo=swagger)
 ![JWT](https://img.shields.io/badge/Auth-JWT-000?logo=jsonwebtokens)
+
+---
+
+## Documentation
+
+📖 **Source code guide:** [Link to the guide article](https://bfotool.com/blog/nestjs-mongodb-blog-api-template-full-featured-rest-backend-for-blogs) — explains project structure, how to run, and how to customize.
+
+*(Replace `https://bfotool.com/blog/nestjs-mongodb-blog-api-template-full-featured-rest-backend-for-blogs` with your actual guide article URL.)*
 
 ---
 
@@ -141,8 +149,8 @@ src/
 
 ```bash
 # Clone repository
-git clone https://github.com/bfotool/nestjs-blog-api.git
-cd nestjs-blog-api
+git clone https://github.com/bfotool/nestjs-mongodb-blog-base.git
+cd nestjs-mongodb-blog-base
 
 # Install dependencies
 npm install
