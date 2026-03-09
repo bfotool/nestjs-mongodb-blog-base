@@ -2,7 +2,7 @@
 
 A production-grade RESTful Blog API built with **NestJS 11**, **MongoDB** (Mongoose), **JWT Authentication**, and **Swagger/OpenAPI** documentation. Includes full CRUD for posts, categories, tags, comments, users, role-based access control, and a database seeding system.
 
-![nestjs-mongo-api](nest-mongo-api.jpg)
+![nestjs-mongo-api](nestjs-mongo-api.jpg)
 
 ![NestJS](https://img.shields.io/badge/NestJS-11-ea2845?logo=nestjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-8-47A248?logo=mongodb)
